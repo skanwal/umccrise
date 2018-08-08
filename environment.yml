@@ -39,6 +39,7 @@ dependencies:
   - parallel
   - cnvkit
   - multiqc
+  - multiqc-bcbio
   - networkx   # for snakemake report
   - pygraphviz # for snakemake report
   # R libraries
